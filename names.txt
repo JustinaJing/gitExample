@@ -1,2 +1,6 @@
+role,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
+role,NetID,LastName,FirstName
 boss, mjing4, Jing, Justina
 employee,cai224,Cai,Amy
